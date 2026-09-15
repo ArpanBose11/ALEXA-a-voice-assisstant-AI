@@ -8,5 +8,5 @@
 5)Play you a song<br/>
 6)System controls i.e shutdown/sleep/hibernate etc<br/>
 7)Search Wikipedia<br/>
-8)Open popular websites likeyoutube,google,stackoverflow<br/>
+8)Open popular websites like youtube, google, stackoverflow<br/>
 9)Tells you time<br/>
